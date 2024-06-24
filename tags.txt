@@ -1,0 +1,10 @@
+doc tags : html head body
+	   tittle meta style link script
+doc structure tag: div, section, article, header, footer, aside
+text formatting tags: h1, h2, h3, h4, h5, h6, spam, <p>, i, b, strong
+image tags: <img      />
+link tags: a
+list tags: li, ol, ul
+table tags:  table thead, to, 
+form tags: form, labu, input, button, text area
+frame tags: iframe
